@@ -1,0 +1,5 @@
+venv
+instance
+haguard.egg-info
+.vscode/
+.devcontainter/
